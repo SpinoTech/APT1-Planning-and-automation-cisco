@@ -1,0 +1,18 @@
+usernm : admin2yourstore@gmail.com
+passwd : admin
+checkBox : True
+loginButton : NA
+
+unm1 : #Email
+pass1 : #Password
+checkBox1 : #RememberMe
+loginbtn 1: button[type='submit']
+
+
+1. launch the app
+2. Enter the username
+3. Enter the password
+4. Click on login button
+
+
+---  use the empty folder to create the project template in cypress / vscode .
